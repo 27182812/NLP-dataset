@@ -8,5 +8,14 @@ https://github.com/crownpku/Awesome-Chinese-NLP
 一些中文 自然语言处理 语料/数据集，包括情感/观点/评论 倾向性分析、中文命名实体识别、推荐系统、FAQ问答系统
 https://github.com/SophonPlus/ChineseNlpCorpus
 
+搜索所有中文NLP数据集 https://github.com/CLUEbenchmark/CLUEDatasetSearch
+
 # 大杂烩，非常全
 https://github.com/fighting41love/funNLP
+
+#学习资料
+斯坦福大学CS224N 【2019】课程的【所有】相关的资料 https://github.com/zhanlaoban/CS224N-Stanford-Winter-2019
+
+NLP研究入门之道-刘知远 https://github.com/zibuyu/research_tao
+
+自然语言处理算法与实战 https://github.com/nlpinaction/learning-nlp
