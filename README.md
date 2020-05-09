@@ -10,6 +10,8 @@ https://github.com/SophonPlus/ChineseNlpCorpus
 
 搜索所有中文NLP数据集 https://github.com/CLUEbenchmark/CLUEDatasetSearch
 
+心理咨询问答语料库 https://github.com/chatopera/efaqa-corpus-zh?spm=5176.12282016.0.0.416e7dc0g0sg7R
+
 # 大杂烩，非常全
 https://github.com/fighting41love/funNLP
 
