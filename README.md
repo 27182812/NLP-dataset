@@ -27,6 +27,6 @@ NLP研究入门之道-刘知远 https://github.com/zibuyu/research_tao
 # 查找论文对应开源代码
 https://www.paperswithcode.com/
 
-# 个人认为是目前已知最全的对话语料，基本上网上各种频道公开的，我都收集了，且下载好了，并配有一定的数据介绍与来源，希望能给个星，找我要提取码，毕竟整理不易
+# 个人认为是目前已知最全的中文对话语料，基本上网上各种频道公开的，我都收集了，且下载好了，并配有一定的数据介绍与来源，希望能给个星，找我要提取码，毕竟整理不易
 https://pan.baidu.com/s/1OJ4weo4YiXvPYLd-BNFJjg
 
