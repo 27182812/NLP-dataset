@@ -17,16 +17,16 @@ https://github.com/SophonPlus/ChineseNlpCorpus
 # 大杂烩，非常全
 https://github.com/fighting41love/funNLP
 
-#学习资料
+# 学习资料
 斯坦福大学CS224N 【2019】课程的【所有】相关的资料 https://github.com/zhanlaoban/CS224N-Stanford-Winter-2019
 
 NLP研究入门之道-刘知远 https://github.com/zibuyu/research_tao
 
 自然语言处理算法与实战 https://github.com/nlpinaction/learning-nlp
 
-#查找论文对应开源代码
+# 查找论文对应开源代码
 https://www.paperswithcode.com/
 
-#个人认为是目前已知最全的对话语料，基本上网上各种频道公开的，我都收集了，且下载好了，并配有一定的数据介绍与来源，希望能给个星，找我要提取码，毕竟整理不易
+# 个人认为是目前已知最全的对话语料，基本上网上各种频道公开的，我都收集了，且下载好了，并配有一定的数据介绍与来源，希望能给个星，找我要提取码，毕竟整理不易
 https://pan.baidu.com/s/1OJ4weo4YiXvPYLd-BNFJjg
 
