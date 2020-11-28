@@ -14,6 +14,8 @@ https://github.com/SophonPlus/ChineseNlpCorpus
 
 知乎总结，有哪些中文语料库 https://www.zhihu.com/question/44764422
 
+中文NLP.数据集搜索 https://www.cluebenchmarks.com/dataSet_search.html
+
 ### 大杂烩，非常全
 https://github.com/fighting41love/funNLP
 
@@ -27,6 +29,4 @@ NLP研究入门之道-刘知远 https://github.com/zibuyu/research_tao
 ### 查找论文对应开源代码
 https://www.paperswithcode.com/
 
-### 中文NLP.数据集搜索
-https://www.cluebenchmarks.com/dataSet_search.html
 
