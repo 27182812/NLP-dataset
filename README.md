@@ -16,6 +16,8 @@ https://github.com/SophonPlus/ChineseNlpCorpus
 
 中文NLP.数据集搜索 https://www.cluebenchmarks.com/dataSet_search.html
 
+情感对话数据集 https://www.biendata.xyz/ccf_tcci2018/datasets/ecg/
+
 ### 大杂烩，非常全
 https://github.com/fighting41love/funNLP
 
@@ -26,10 +28,27 @@ NLP研究入门之道-刘知远 https://github.com/zibuyu/research_tao
 
 自然语言处理算法与实战 https://github.com/nlpinaction/learning-nlp
 
+七月NLP课程笔记 https://codingcat.cn/pages/608d0a/
+
+pytorch中文教程，聊天机器人教程 https://pytorch.apachecn.org/docs/1.0/chatbot_tutorial.html
+
 ### 查找论文对应开源代码
 https://www.paperswithcode.com/
 
 ### 代码实现
-问答系统实践，由两个部分组成，一是基于tf-idf检索的召回模型，二是基于CNN的精排模型：https://github.com/WenRichard/Customer-Chatbot
+问答系统实践，由两个部分组成，一是基于tf-idf检索的召回模型，二是基于CNN的精排模型 https://github.com/WenRichard/Customer-Chatbot
+CakeChat: 情感生成对话系统 https://www.ctolib.com/lukalabs-cakechat.html
+
+### 应用类or工具类or有趣
+DeepMoji:输入一句话生成相应表情 https://deepmoji.mit.edu/
+
+面向FAQ集合的问答系统框架、文本语义匹配工具SimNet https://github.com/baidu/AnyQ
+
+### 文章类
+对话情感识别与生成简述 https://blog.csdn.net/sdu_hao/article/details/106855262
+
+A paper list for aspect based sentiment analysis https://github.com/jiangqn/Aspect-Based-Sentiment-Analysis
+
+
 
 
