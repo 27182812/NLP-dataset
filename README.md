@@ -29,4 +29,7 @@ NLP研究入门之道-刘知远 https://github.com/zibuyu/research_tao
 ### 查找论文对应开源代码
 https://www.paperswithcode.com/
 
+### 代码实现
+问答系统实践，由两个部分组成，一是基于tf-idf检索的召回模型，二是基于CNN的精排模型：https://github.com/WenRichard/Customer-Chatbot
+
 
