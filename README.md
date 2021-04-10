@@ -50,6 +50,8 @@ DeepMoji:输入一句话生成相应表情 https://deepmoji.mit.edu/
 
 A paper list for aspect based sentiment analysis https://github.com/jiangqn/Aspect-Based-Sentiment-Analysis
 
+how-to-build-a-state-of-the-art-conversational-ai-with-transfer-learning：https://medium.com/huggingface/how-to-build-a-state-of-the-art-conversational-ai-with-transfer-learning-2d818ac26313
+
 
 
 
