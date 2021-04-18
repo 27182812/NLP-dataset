@@ -40,6 +40,8 @@ https://www.paperswithcode.com/
 
 CakeChat: 情感生成对话系统 https://www.ctolib.com/lukalabs-cakechat.html
 
+Make your own Rick Sanchez (bot) with Transformers and DialoGPT fine-tuning：https://colab.research.google.com/drive/15wa925dj7jvdvrz8_z3vU7btqAFQLVlG#scrollTo=7KrNfVNueNhR
+
 ### 应用类or工具类or有趣
 DeepMoji:输入一句话生成相应表情 https://deepmoji.mit.edu/
 
