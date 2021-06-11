@@ -48,6 +48,8 @@ DeepMoji:输入一句话生成相应表情 https://deepmoji.mit.edu/
 面向FAQ集合的问答系统框架、文本语义匹配工具SimNet https://github.com/baidu/AnyQ
 
 ### 文章类
+预训练模型相关paper：https://github.com/thunlp/PLMpapers
+
 对话情感识别与生成简述 https://blog.csdn.net/sdu_hao/article/details/106855262
 
 A paper list for aspect based sentiment analysis https://github.com/jiangqn/Aspect-Based-Sentiment-Analysis
