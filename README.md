@@ -56,6 +56,8 @@ DeepMoji:输入一句话生成相应表情 https://deepmoji.mit.edu/
 
 A paper list for aspect based sentiment analysis https://github.com/jiangqn/Aspect-Based-Sentiment-Analysis
 
+A Paper List for Style Transfer in Text: https://github.com/fuzhenxin/Style-Transfer-in-Text
+
 how-to-build-a-state-of-the-art-conversational-ai-with-transfer-learning：https://medium.com/huggingface/how-to-build-a-state-of-the-art-conversational-ai-with-transfer-learning-2d818ac26313
 
 The Illustrated Transformer(中文版,非常好的讲解Transformer的文章): https://blog.csdn.net/yujianmin1990/article/details/85221271
