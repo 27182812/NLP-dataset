@@ -44,6 +44,10 @@ CakeChat: 情感生成对话系统 https://www.ctolib.com/lukalabs-cakechat.html
 
 Make your own Rick Sanchez (bot) with Transformers and DialoGPT fine-tuning：https://colab.research.google.com/drive/15wa925dj7jvdvrz8_z3vU7btqAFQLVlG#scrollTo=7KrNfVNueNhR
 
+对话情感分析：https://github.com/declare-lab/conv-emotion
+
+多轮对话基础实现： https://github.com/gmftbyGMFTBY/MultiTurnDialogZoo
+
 ### 应用类or工具类or有趣
 DeepMoji:输入一句话生成相应表情 https://deepmoji.mit.edu/
 
@@ -57,6 +61,8 @@ DeepMoji:输入一句话生成相应表情 https://deepmoji.mit.edu/
 A paper list for aspect based sentiment analysis https://github.com/jiangqn/Aspect-Based-Sentiment-Analysis
 
 A Paper List for Style Transfer in Text: https://github.com/fuzhenxin/Style-Transfer-in-Text
+
+awesome-emotion-recognition-in-conversations: https://github.com/declare-lab/awesome-emotion-recognition-in-conversations
 
 how-to-build-a-state-of-the-art-conversational-ai-with-transfer-learning：https://medium.com/huggingface/how-to-build-a-state-of-the-art-conversational-ai-with-transfer-learning-2d818ac26313
 
