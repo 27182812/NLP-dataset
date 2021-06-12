@@ -32,6 +32,8 @@ NLP研究入门之道-刘知远 https://github.com/zibuyu/research_tao
 
 pytorch中文教程，聊天机器人教程 https://pytorch.apachecn.org/docs/1.0/chatbot_tutorial.html
 
+百度paddlenlp课程学习：https://aistudio.baidu.com/aistudio/education/group/info/24177 、 https://aistudio.baidu.com/aistudio/projectdetail/1978303
+
 ### 查找论文对应开源代码
 https://www.paperswithcode.com/
 
