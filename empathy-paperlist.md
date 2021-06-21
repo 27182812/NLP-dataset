@@ -1,3 +1,6 @@
+### Empathetic-COAI-Papers
+https://github.com/Sahandfer/Empathetic-COAI-Papers
+
 # Empathy-NLP-Papers
 A paper list about empathetic dialogue system
 来源于https://github.com/TissueC/Empathy-NLP-Papers
