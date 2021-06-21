@@ -53,6 +53,8 @@ DeepMoji:输入一句话生成相应表情 https://deepmoji.mit.edu/
 
 面向FAQ集合的问答系统框架、文本语义匹配工具SimNet https://github.com/baidu/AnyQ
 
+an open-source text annotation tool：https://github.com/doccano/doccano
+
 ### 文章类
 预训练模型相关paper：https://github.com/thunlp/PLMpapers
 
