@@ -18,6 +18,8 @@ https://github.com/SophonPlus/ChineseNlpCorpus
 
 情感对话数据集 https://www.biendata.xyz/ccf_tcci2018/datasets/ecg/
 
+中文开放知识图谱 http://openkg.cn/home
+
 ### 大杂烩，非常全
 https://github.com/fighting41love/funNLP
 
