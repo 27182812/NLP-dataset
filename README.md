@@ -39,6 +39,12 @@ pytorch中文教程，聊天机器人教程 https://pytorch.apachecn.org/docs/1.
 ### 查找论文对应开源代码
 https://www.paperswithcode.com/
 
+### 在各项NLP任务上的排行榜
+https://nlpprogress.com/
+
+### 国内自然语言处理爱好者的群体博客
+https://www.52nlp.cn/
+
 ### 代码实现
 问答系统实践，由两个部分组成，一是基于tf-idf检索的召回模型，二是基于CNN的精排模型 https://github.com/WenRichard/Customer-Chatbot
 
