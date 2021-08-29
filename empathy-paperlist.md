@@ -10,6 +10,7 @@ A paper list about empathetic dialogue system
 **A survey on empathetic dialogue systems**. 
 _Yukun Maa, Khanh Linh Nguyena, Frank Z. Xing b, Erik Cambria. **Information Fusion, 2020 - Elsevier**._ 
 [[PDF](https://www.sciencedirect.com/science/article/pii/S1566253520303092)]
+共情对话系统综述
 
 **Towards Empathetic Open-domain Conversation Models: a New Benchmark and Dataset**. 
 _Hannah Rashkin, Eric Michael Smith, Margaret Li, Y-Lan Boureau. **ACL2019**._ 
