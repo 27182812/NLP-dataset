@@ -78,6 +78,8 @@ how-to-build-a-state-of-the-art-conversational-ai-with-transfer-learning：https
 
 The Illustrated Transformer(中文版,非常好的讲解Transformer的文章): https://blog.csdn.net/yujianmin1990/article/details/85221271
 
+Awesome-Efficient-PLM: https://github.com/TobiasLee/Awesome-Efficient-PLM
+
 ### 云服务器
 矩池云 https://www.matpool.com/
 
