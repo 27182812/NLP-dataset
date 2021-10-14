@@ -115,7 +115,7 @@ _Orianna Demasi, Yu Li, Zhou Yu.
 **Modulating Language Models with Emotions**. 
 **ACL2021Findings**
 [[PDF](https://www.sciencedirect.com/science/article/pii/S1566253520303092)]
-
+modulated layer normalization、low-resource
 
 来源于https://github.com/Sahandfer/EMPaper
 # Empathetic Dialogue Systems
