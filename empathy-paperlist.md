@@ -7,6 +7,13 @@ A paper list about empathetic dialogue system
 
 ## Empathy
 
+**Perspective-taking and Pragmatics for Generating Empathetic Responses Focused on Emotion Causes**. 
+**EMNLP2021**
+[[PDF](https://arxiv.org/abs/2109.08828)]
+[[code](https://github.com/skywalker023/focused-empathy)]
+情感原因
+
+
 **A survey on empathetic dialogue systems**. 
 _Yukun Maa, Khanh Linh Nguyena, Frank Z. Xing b, Erik Cambria. **Information Fusion, 2020 - Elsevier**._ 
 [[PDF](https://www.sciencedirect.com/science/article/pii/S1566253520303092)]
@@ -129,12 +136,12 @@ modulated layer normalization、low-resource
 [[PDF](https://arxiv.org/abs/2106.06169)]
 [[code](https://github.com/songhaoyu/BoB)]
 
+##Sentiment Analysis
 
 
 
-来源于https://github.com/Sahandfer/EMPaper
 # Empathetic Dialogue Systems
-
+来源于https://github.com/Sahandfer/EMPaper
 > A list of papers related to emotion, empathy, and mental health support in dialog systems and emotional, empathetic, and supportive response generation.
 
 <img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Last%20Update-2021--08--20-success" alt="update"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-65-2D333B" alt="PaperNum"/>
