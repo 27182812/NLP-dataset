@@ -124,6 +124,10 @@ modulated layer normalization、low-resource
 [[PDF](https://arxiv.org/abs/2109.12702)]
 [[code](https://github.com/Zhilin123/personal_attributes)]
 
+**BoB: BERT Over BERT for Training Persona-based Dialogue Models from Limited Personalized Data**. 
+**ACL2021**
+[[PDF](https://arxiv.org/abs/2106.06169)]
+[[code](https://github.com/songhaoyu/BoB)]
 
 
 
