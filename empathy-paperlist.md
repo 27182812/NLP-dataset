@@ -110,6 +110,12 @@ _Orianna Demasi, Yu Li, Zhou Yu.
 **findings-EMNLP2020**._
 [[PDF](https://www.aclweb.org/anthology/2020.findings-emnlp.324/)]
 
+## Emotion
+
+**Modulating Language Models with Emotions**. 
+**ACL2021Findings**
+[[PDF](https://www.sciencedirect.com/science/article/pii/S1566253520303092)]
+
 
 来源于https://github.com/Sahandfer/EMPaper
 # Empathetic Dialogue Systems
