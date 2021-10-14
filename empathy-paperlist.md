@@ -117,6 +117,17 @@ _Orianna Demasi, Yu Li, Zhou Yu.
 [[PDF](https://www.sciencedirect.com/science/article/pii/S1566253520303092)]
 modulated layer normalization、low-resource
 
+## Personality
+
+**Extracting and Inferring Personal Attributes from Dialogue**. 
+**arxiv2021.9.26**
+[[PDF](https://arxiv.org/abs/2109.12702)]
+[[code](https://github.com/Zhilin123/personal_attributes)]
+
+
+
+
+
 来源于https://github.com/Sahandfer/EMPaper
 # Empathetic Dialogue Systems
 
