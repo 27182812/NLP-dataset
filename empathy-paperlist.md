@@ -142,7 +142,12 @@ modulated layer normalization、low-resource
 **ACL2019**
 [[PDF](https://arxiv.org/abs/1906.01267)]
 [[code](https://paperswithcode.com/paper/emotion-cause-pair-extraction-a-new-task-to#code)]
+ECPE:提取文档中所有潜在的情感-原因对，子句级
 
+**A Question Answering Approach to Emotion Cause Extraction**.
+**EMNLP2017**
+[[PDF](https://arxiv.org/abs/1708.05482)]
+将情感原因识别作为阅读理解任务的新方法，将相关上下文存储在不同的记忆槽中，从而对上下文信息进行建模，该方法可以同时提取词级序列特征和词汇特征
 
 
 
