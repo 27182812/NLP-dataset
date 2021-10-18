@@ -136,7 +136,13 @@ modulated layer normalization、low-resource
 [[PDF](https://arxiv.org/abs/2106.06169)]
 [[code](https://github.com/songhaoyu/BoB)]
 
-##Sentiment Analysis
+## Emotion Cause
+
+**Emotion-Cause Pair Extraction: A New Task to Emotion Analysis in Texts**.
+**ACL2019**
+[[PDF](https://arxiv.org/abs/1906.01267)]
+[[code](https://paperswithcode.com/paper/emotion-cause-pair-extraction-a-new-task-to#code)]
+
 
 
 
