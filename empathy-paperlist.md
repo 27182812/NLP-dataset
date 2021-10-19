@@ -149,6 +149,10 @@ ECPE:提取文档中所有潜在的情感-原因对，子句级
 [[PDF](https://arxiv.org/abs/1708.05482)]
 将情感原因识别作为阅读理解任务的新方法，将相关上下文存储在不同的记忆槽中，从而对上下文信息进行建模，该方法可以同时提取词级序列特征和词汇特征
 
+**Joint Learning for Emotion Classification and Emotion Cause Detection.**.
+**EMNLP2018**
+[[PDF](https://aclanthology.org/D18-1066.pdf)]
+
 
 
 # Empathetic Dialogue Systems
