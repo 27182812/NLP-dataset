@@ -63,6 +63,8 @@ DeepMoji:输入一句话生成相应表情 https://deepmoji.mit.edu/
 
 an open-source text annotation tool：https://github.com/doccano/doccano
 
+Bad Words: https://github.com/LDNOOBW/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words
+
 ### 文章类
 预训练模型相关paper：https://github.com/thunlp/PLMpapers
 
